@@ -3,14 +3,14 @@
 <h3 align="center">Я начинающий веб разработчик</h3>
 <h3><samp>🎯 Мои цели:</samp></h3>
 <ul>
-  <li><p>стать Senior разработчиком</p></li>
+  <li list-style-type: none;><p>стать Senior разработчиком</p></li>
   <li><p>попробовать freelance</p></li>
   <li><p>найти новые знакомостсва</p></li>
   <li><p>изучить новые и интересные фреймворки</p></li>
   <li><p>подтянуть английский</p></li>
   <li><p>выучить корейский язык</p></li>
 </ul>
-<ul list-style-type: none;>мой стек:
+<ul >мой стек:
   <li list-style-type: none;><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></li>
   <li list-style-type: none;><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></li>
   <li list-style-type: none;><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></li>
