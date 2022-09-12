@@ -1,6 +1,7 @@
 <h1 align="center">Привет, меня зовут Александр <a href="https://daniilshat.ru/"</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я начинающий веб разработчик</h3>
+<h3><samp>🎯 Мой цели:</samp></h3>
 <ul>
   <li><p>стать Senior разработчиком</p></li>
   <li><p>попробовать freelance</p></li>
@@ -17,7 +18,16 @@
   <li><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></li>
   <li><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
 </ul>
-<h3 align="center">Моя статистика по используемым языках в репозитприях</h3>
+<h3 align="center">🏆 Моя статистика по используемым языках в репозитприях</h3>
+
+<div>
+    <a href="https://github-readme-stats.vercel.app/api?username=famovkin">
+    <img  align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=famovkin&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=famovkin">
+    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famovkin&layout=compact&theme=dark" />
+    </a>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
