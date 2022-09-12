@@ -10,6 +10,7 @@
   <li><p>подтянуть английский</p></li>
   <li><p>выучить корейский язык</p></li>
 </ul>
+<style>
 <ul >мой стек:
   <li list-style-type: none;><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></li>
   <li list-style-type: none;><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></li>
@@ -18,6 +19,7 @@
   <li list-style-type: none;><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></li>
   <li list-style-type: none;><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
 </ul>
+</style>
 <h3 align="center">🏆 Моя статистика по используемым языках в репозитприях</h3>
 
 <div>
