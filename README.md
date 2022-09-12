@@ -1,6 +1,5 @@
 <h1 align="center">Привет, меня зовут Александр <a href="https://daniilshat.ru/"</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![](https://komarev.com/ghpvc/?username=your-github-username)
 <h3 align="center">Я начинающий веб разработчик</h3>
 <ul>
   <li><p>стать Senior разработчиком</p></li>
@@ -22,3 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
