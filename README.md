@@ -20,7 +20,6 @@
   <li list-style-type: none;><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
 </ul>
 <h3 align="center">🏆 Моя статистика по используемым языках в репозитприях</h3>
-![](https://komarev.com/ghpvc/?username=your-github-username)
 <div>
     <a href="https://github-readme-stats.vercel.app/api?username=aleksandree128">
     <img  align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=aleksandree128&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
@@ -30,3 +29,4 @@
     </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
