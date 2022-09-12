@@ -21,14 +21,12 @@
 <h3 align="center">🏆 Моя статистика по используемым языках в репозитприях</h3>
 
 <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=famovkin">
-    <img  align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=famovkin&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <a href="https://github-readme-stats.vercel.app/api?username=aleksandree128">
+    <img  align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=aleksandree128&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=famovkin">
     <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famovkin&layout=compact&theme=dark" />
     </a>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
