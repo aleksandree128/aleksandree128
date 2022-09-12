@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Александр <a href="https://daniilshat.ru/"</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я начинающий веб разработчик</h3>
-<h3><samp>🎯 Мой цели:</samp></h3>
+<h3><samp>🎯 Мои цели:</samp></h3>
 <ul>
   <li><p>стать Senior разработчиком</p></li>
   <li><p>попробовать freelance</p></li>
