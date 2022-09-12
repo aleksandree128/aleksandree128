@@ -10,7 +10,7 @@
   <li><p>подтянуть английский</p></li>
   <li><p>выучить корейский язык</p></li>
 </ul>
-<ul>мой стек:
+<ul list-style-type: none;>мой стек:
   <li list-style-type: none;><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></li>
   <li list-style-type: none;><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></li>
   <li list-style-type: none;><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></li>
