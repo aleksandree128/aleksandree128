@@ -28,3 +28,7 @@
     <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famovkin&layout=compact&theme=dark" />
     </a>
 </div>
+<p>------------------------------------------------------
+https://electrophysic.ru/pomosch/dlya-sozdaniya-zavisimogo-vypadayushchego-spiska-neobkhodimo-ispol-zovat-formulu.html?ysclid=lp9kq1ra2y762693736
+------------------------------------------------------
+</p>
